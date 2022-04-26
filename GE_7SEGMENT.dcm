@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCDG1060M
+D 7 Segment Green Display 40.2 x 12.8
+K 7 Segment
+F https://geekelectronick.com/wp-content/uploads/TDCG1050M_TDCG1060M_TDCR1050M_TDCR1060M.pdf
+$ENDCMP
+#
+#End Doc Library

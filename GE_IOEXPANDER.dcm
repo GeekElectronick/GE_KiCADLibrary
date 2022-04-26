@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP23008
+D Microchip 8-Bit I/O Expander with Serial Interface
+K io expander
+F https://geekelectronick.com/wp-content/uploads/MCP23008_MCP23S08.pdf
+$ENDCMP
+#
+#End Doc Library

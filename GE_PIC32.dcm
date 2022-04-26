@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC32MK1024MCF100
+F https://geekelectronick.com/wp-content/uploads/PIC32MKFamily.pdf
+$ENDCMP
+#
+$CMP PIC32MK_GPK
+F https://geekelectronick.com/wp-content/uploads/PIC32MK_GPKMCM_Family.pdf
+$ENDCMP
+#
+#End Doc Library

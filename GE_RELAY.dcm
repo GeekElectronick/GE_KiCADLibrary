@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALDP1xxW
+D Panasonic Slim 5A Power Relay, 7.2mm
+K SPST
+F https://geekelectronick.com/wp-content/uploads/ALDP1xxW.pdf
+$ENDCMP
+#
+$CMP JTN1AS-PA-F-DCxx
+D Compact PCB Relay, 30A
+K SPST
+F https://geekelectronick.com/wp-content/uploads/JTN1AS-PA-F-DCxx.pdf
+$ENDCMP
+#
+$CMP OJE-SS-1xx-LMH
+D Miniature PCB Relay, 8A
+K SPST
+F https://geekelectronick.com/wp-content/uploads/OJE-SS-1xx-LMH.pdf
+$ENDCMP
+#
+$CMP SRD_xVDC_SL_C
+D Sanyo SRD relay, Single Pole Miniature Power Relay,
+K Single Pole Relay SPDT
+$ENDCMP
+#
+#End Doc Library

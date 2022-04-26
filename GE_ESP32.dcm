@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32_WROOM
+D ESP32_WROOM Pinout
+F https://geekelectronick.com/wp-content/uploads/ESP32WROOM.pdf
+$ENDCMP
+#
+#End Doc Library

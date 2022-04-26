@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Generic Unpolarized Capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Generic Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+#End Doc Library

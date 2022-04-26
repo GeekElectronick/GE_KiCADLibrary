@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATECC608A
+D Microchip CryptoAuthentication Device
+K atecc608a 608a crypto
+F https://geekelectronick.com/wp-content/uploads/ATECC608A.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8825
+F https://geekelectronick.com/wp-content/uploads/DRV8825-Stepper-Motor-Controller-IC-datasheet-Rev.-F-drv8825.pdf
+$ENDCMP
+#
+#End Doc Library

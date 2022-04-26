@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PDTC123JT
+D 20V SOT23 N-channel enhancement mode MOSFET
+K transistor NMOS N-MOS N-MOSFET
+$ENDCMP
+#
+$CMP TK40E06N1
+D 20V SOT23 N-channel enhancement mode MOSFET
+K transistor NMOS N-MOS N-MOSFET
+$ENDCMP
+#
+$CMP ZXMN2F34FH
+D 20V SOT23 N-channel enhancement mode MOSFET
+K transistor NMOS N-MOS N-MOSFET
+F https://geekelectronick.com/wp-content/uploads/ZXMN2F24FH.pdf
+$ENDCMP
+#
+#End Doc Library
