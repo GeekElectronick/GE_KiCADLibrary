@@ -6,7 +6,7 @@
     (property "Value" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "GE_RF:CONMHF4-SMD-G-T" (at 0 0 0)
+    (property "Footprint" "" (at -1.27 -5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
