@@ -10,6 +10,8 @@ GeekElectronick
 
 I found it frustrating that I couldn't edit the original footprints, so I created my own instead.
 
+A lot of the new Symbols and Footprints is downloaded from SnapEDA
+
 This repository contains:
 - Schematic symbols
 - Footprints
@@ -29,8 +31,19 @@ To use these libraries in your KiCAD projects:
 
 ## Last Update Change Date
 
-2024 June 2
+2024 September 18
+
+## Change notes 2024-09-18
+
+- Added CF4240FH0R0-05-NH 40 pins FPC Connector
+- Added CF4245FH0R0-05-NH 45 pins FPC Connector
+- Added HDMI Library
+- Added Motor Library
+- Added PIC32 Library
+- Updated Switching Regulator Library
+- Added AR110 Touch Module Library
+- Added stacked USB-A Library
 
 ## Change notes 2024-06-02
 
-Added IPX connector
+- Added IPX connector
