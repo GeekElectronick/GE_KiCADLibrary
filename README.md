@@ -31,9 +31,9 @@ To use these libraries in your KiCAD projects:
 
 ## Last Update Change Date
 
-2024 September 18
+2024 October 02
 
-## Change notes 2024-09-18
+## Change notes 2024-10-02
 
 - Added CF4240FH0R0-05-NH 40 pins FPC Connector
 - Added CF4245FH0R0-05-NH 45 pins FPC Connector
